@@ -3,7 +3,7 @@ package com.github.aprendendo;
 public class classeDePull {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+			System.out.println("Aprendendo a pegar objetos do repositorio GitHub (Checkout)");
 
 	}
 
